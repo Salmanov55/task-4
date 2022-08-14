@@ -1,0 +1,14 @@
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.exe
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.deps.json
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.runtimeconfig.json
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.runtimeconfig.dev.json
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.dll
+C:\Users\Aydan\Desktop\Taskk\Taskk\bin\Debug\netcoreapp3.1\Taskk.pdb
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.csproj.AssemblyReference.cache
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.AssemblyInfoInputs.cache
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.AssemblyInfo.cs
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.csproj.CoreCompileInputs.cache
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.dll
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.pdb
+C:\Users\Aydan\Desktop\Taskk\Taskk\obj\Debug\netcoreapp3.1\Taskk.genruntimeconfig.cache
